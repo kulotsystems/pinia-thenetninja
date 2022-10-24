@@ -10,7 +10,7 @@
 
 <script setup>
     const props = defineProps({
-        task: String
+        task: Object
     });
 </script>
 
