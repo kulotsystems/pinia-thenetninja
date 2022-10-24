@@ -16,3 +16,7 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Preview
+Access <https://kulotsystems.github.io/pinia-thenetninja>.

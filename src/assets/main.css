@@ -17,6 +17,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 15px;
 }
 header img {
     max-width: 60px;
@@ -30,10 +31,12 @@ header h1 {
     transform: rotate(2deg);
 }
 
+
 /* task list */
 .task-list {
     max-width: 640px;
     margin: 20px auto;
+    padding: 0 15px;
 }
 .task {
     padding: 6px 20px;
@@ -64,9 +67,10 @@ header h1 {
 
 /* filter nav */
 .filter {
-    width: 640px;
+    max-width: 640px;
     margin: 20px auto;
     text-align: right;
+    padding: 0 15px;
 }
 .filter button {
     display: inline-block;
@@ -92,7 +96,7 @@ header h1 {
 /* new task form */
 .new-task-form {
     background: #e7e7e7;
-    padding: 20px 0;
+    padding: 20px 15px;
 }
 form {
     max-width: 400px;
