@@ -25,6 +25,9 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Spin-up JSON Server
+        run: json-server -w ./data/db.json
+
       - name: Rename index to 404
         run: npm run rename-index
 
