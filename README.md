@@ -20,3 +20,6 @@ npm run build
 
 ### Preview
 Access <https://kulotsystems.github.io/pinia-thenetninja>.
+
+---
+Checkout the [complete](https://github.com/kulotsystems/pinia-thenetninja/tree/complete) branch to view all the lessons.
